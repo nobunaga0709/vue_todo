@@ -298,7 +298,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 // 2. ワイヤーフレーム作成(1h) 10m
 // 3. デザイン作成(3h) 2h
 // 4. コーディング(16h) 4h10m
-// 5. サーバーアップ(1h) 
+// 5. サーバーアップ(1h) 50m
 // 合計22h
 
 new _vue2.default({
